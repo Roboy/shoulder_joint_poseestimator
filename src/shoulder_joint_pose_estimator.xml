@@ -1,0 +1,9 @@
+<library path="libposeestimator">
+  <class name="ShoulderJointPoseEstimator"
+         type="ShoulderJointPoseEstimator"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget for shoulder joint poseestimation
+    </description>
+  </class>
+</library>
